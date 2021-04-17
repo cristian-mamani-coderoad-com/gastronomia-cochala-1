@@ -7,3 +7,4 @@
 - Tomate
 - Cebolla
 - Locoto
+- Arroz
