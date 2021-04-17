@@ -2,9 +2,8 @@
 
 ## INGREDIENTES
 
-- Carne de cordero
+- Carne de res
 - Papa
 - Tomate
 - Cebolla
 - Locoto
-- Arroz
