@@ -6,3 +6,4 @@
 - Papa
 - Tomate
 - Cebolla
+- Locoto
